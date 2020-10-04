@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HRITISHA</h1>
-<p align="center>
-  <img alt="GIF" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width = 200/>
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width = 400/>
 </p>
 
 <h3 align="center">I am an enthusiastic learner who wants to explore many technical skills.</h3>
