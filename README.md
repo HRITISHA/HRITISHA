@@ -13,7 +13,7 @@
 
 - 🔭 I have worked on [SEDS Website](https://seds.netlify.com/)
 
-- 🌱 I’m currently learning **React, Competitive Programming**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 📫 How to reach me **hritishak@gmail.com**
 
